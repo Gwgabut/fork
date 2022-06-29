@@ -34,7 +34,7 @@ Click the deploy icon below !
 > pkg install ffmpeg
 > pkg install yarn
 > termux-setup-storage
-> git clone https://github.com/Gwgabut/fork.git
+> git clone https://github.com/Gwgabut/fork
 > cd fork
 > yarn
 > npm start
